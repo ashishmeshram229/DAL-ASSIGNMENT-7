@@ -57,5 +57,5 @@ The goal is to evaluate and select the most reliable model based on **F1-Score**
 ---
 
 📘 *By* **Ashish Meshram**  
-*M.Tech in Data Science | GATE DA 2025 Aspirant*  
+*M.Tech in Data Science |
 ⭐ *If you found this project insightful, consider giving it a star!*
